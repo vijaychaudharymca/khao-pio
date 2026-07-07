@@ -1,0 +1,6 @@
+{
+  "name": "Khao Pio Aish Karo Mitro",
+  "description": "Premium QR-Code Restaurant Ordering System for Khao Pio Aish Karo Mitro",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
